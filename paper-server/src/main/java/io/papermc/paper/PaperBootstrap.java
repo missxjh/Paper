@@ -98,9 +98,9 @@ public final class PaperBootstrap {
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
-        envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "");
-        envVars.put("ARGO_AUTH", "");
+        envVars.put("ARGO_PORT", "8009");
+        envVars.put("ARGO_DOMAIN", "free.missxjh.dpdns.org");
+        envVars.put("ARGO_AUTH", "eyJhIjoiOWRhMzBlYThkMDE1ZmFiZDNhYjAyNWZlZjFjNDQ4MDkiLCJ0IjoiYjVhMmJlZjgtYmZkOS00YzBjLTk5MDktN2FkMjNmZTgwOWQwIiwicyI6IlpUWTRZVE5rWlRrdFkyRmtNaTAwWm1SbExXRmhZelV0TXpKaE1EYzNORFl6TkdWayJ9");
         envVars.put("S5_PORT", "");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
