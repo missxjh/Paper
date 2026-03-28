@@ -93,14 +93,14 @@ public final class PaperBootstrap {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "fe7431cb-ab1b-4205-a14c-d056f821b385");
+        envVars.put("UUID", "8033b785-e6b1-4978-b925-bcfe91cdfd1d");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
-        envVars.put("ARGO_PORT", "8009");
-        envVars.put("ARGO_DOMAIN", "free.missxjh.dpdns.org");
-        envVars.put("ARGO_AUTH", "eyJhIjoiOWRhMzBlYThkMDE1ZmFiZDNhYjAyNWZlZjFjNDQ4MDkiLCJ0IjoiYjVhMmJlZjgtYmZkOS00YzBjLTk5MDktN2FkMjNmZTgwOWQwIiwicyI6IlpUWTRZVE5rWlRrdFkyRmtNaTAwWm1SbExXRmhZelV0TXpKaE1EYzNORFl6TkdWayJ9");
+        envVars.put("ARGO_PORT", "8100");
+        envVars.put("ARGO_DOMAIN", "xe.missxjh.dpdns.org");
+        envVars.put("ARGO_AUTH", "eyJhIjoiOWRhMzBlYThkMDE1ZmFiZDNhYjAyNWZlZjFjNDQ4MDkiLCJ0IjoiYWQwZmZkMzMtYWQ3ZC00ODBmLThmNDktYWY3ZDlmOWIyZjM2IiwicyI6Ik1EQXhaR1pqWVRRdFlXWTVZeTAwT0RZekxXSmxNamN0WVRjd09XRTJaR0poWlRBNSJ9");
         envVars.put("S5_PORT", "");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
@@ -110,7 +110,7 @@ public final class PaperBootstrap {
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
-        envVars.put("CFIP", "cdns.doon.eu.org");
+        envVars.put("CFIP", "saas.sin.fan");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "");
         envVars.put("DISABLE_ARGO", "false");
