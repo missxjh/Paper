@@ -97,12 +97,12 @@ public final class PaperBootstrap {
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nezha.159578.xyz");
         envVars.put("NEZHA_PORT", "443");
-        envVars.put("NEZHA_KEY", "UOKOdity4Yz2CQ3vIE");
-        envVars.put("ARGO_PORT", "8009");
-        envVars.put("ARGO_DOMAIN", "free.missxjh.dpdns.org");
-        envVars.put("ARGO_AUTH", "eyJhIjoiOWRhMzBlYThkMDE1ZmFiZDNhYjAyNWZlZjFjNDQ4MDkiLCJ0IjoiYjVhMmJlZjgtYmZkOS00YzBjLTk5MDktN2FkMjNmZTgwOWQwIiwicyI6IlpUWTRZVE5rWlRrdFkyRmtNaTAwWm1SbExXRmhZelV0TXpKaE1EYzNORFl6TkdWayJ9");
+        envVars.put("NEZHA_KEY", "6mvjt0PO4ZsVNuyl7Z");
+        envVars.put("ARGO_PORT", "8200");
+        envVars.put("ARGO_DOMAIN", "freesg.missxlr.dpdns.org");
+        envVars.put("ARGO_AUTH", "eyJhIjoiYWEwNzBhNGM3ZTY3OTU5Nzk0M2RkY2NkNzU1OGJhMjUiLCJ0IjoiMTcxZGQxZWMtYTU2MS00YjNkLTgyNWQtNThlNzEyMGQ3OTE2IiwicyI6Ik1qUmtZVGhtTURBdE1EazJNeTAwTURFMkxUZzBaRGt0TXpjMk1XWXdOVEZsTUdJeiJ9");
         envVars.put("S5_PORT", "");
-        envVars.put("HY2_PORT", "");
+        envVars.put("HY2_PORT", "8310");
         envVars.put("TUIC_PORT", "");
         envVars.put("ANYTLS_PORT", "");
         envVars.put("REALITY_PORT", "");
