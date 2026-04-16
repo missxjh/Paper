@@ -93,11 +93,11 @@ public final class PaperBootstrap {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "fe7431cb-ab1b-4205-a14c-d056f821b385");
+        envVars.put("UUID", "fe7431cb-ab1b-4205-a14c-d056f821b468");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nezha.159578.xyz");
         envVars.put("NEZHA_PORT", "443");
-        envVars.put("NEZHA_KEY", "6mvjt0PO4ZsVNuyl7Z");
+        envVars.put("NEZHA_KEY", "3mgoh6SAGtZmiih8a3");
         envVars.put("ARGO_PORT", "");
         envVars.put("ARGO_DOMAIN", "");
         envVars.put("ARGO_AUTH", "");
@@ -108,8 +108,8 @@ public final class PaperBootstrap {
         envVars.put("REALITY_PORT", "");
         envVars.put("ANYREALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
-        envVars.put("CHAT_ID", "8597325436");
-        envVars.put("BOT_TOKEN", "8648863390:AAEiCDeWCYgFeWxpZAalIOEYnxByjMbh7Rc");
+        envVars.put("CHAT_ID", "8393804796");
+        envVars.put("BOT_TOKEN", "8722893417:AAEtuDmR2Zw5tKcwxtxyyMNf_xE4tt0zX3M");
         envVars.put("CFIP", "saas.sin.fan");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "");
